@@ -3,21 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6c03c3ad-a86c-4c54-8777-315e8f35a7e8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/Comment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/Post.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/Vote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/Vote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/ActivityModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/ActivityModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/CommentModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/CommentModel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Model/PostModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/PostModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/UserModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/UserModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/UserSession.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/UserSession.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Services/Comment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Services/Post.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Services/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Services/Vote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Services/Vote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Utils/Utils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

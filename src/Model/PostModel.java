@@ -38,8 +38,8 @@ public class PostModel {
 
         HashMap<String, Object> dataMap = new HashMap<>();
         dataMap.put("comments" , comments);
-        dataMap.put("upVotes", upVotes);
-        dataMap.put("downVotes", downVotes);
+        dataMap.put("upVotes", upVotes.size());
+        dataMap.put("downVotes", downVotes.size());
         dataMap.put("post",this.postData);
 
         return dataMap;
